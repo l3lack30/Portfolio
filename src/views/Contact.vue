@@ -4,7 +4,7 @@
         <div class="section">
             <p><i class="bi bi-geo-alt-fill m-2" style="font-size: 25px;"></i> Chiang Mai, TH</p>
             <p><i class="bi bi-telephone-fill m-2" style="font-size: 25px;"></i> Phone: 063-787-5743</p>
-            <p><i class="bi bi-envelope-fill m-2" style="font-size: 25px;"></i> Email: l3lack30@gmail.com</p>
+            <p><i class="bi bi-envelope-fill m-2" style="font-size: 25px;"></i> Email: l3lack@gmail.com</p>
         </div>
         <div class="row g-5 py-3 row-cols-1 row-cols-lg-2">
             <form action="https://formsubmit.co/l3lack30@gmail.com" method="POST">
