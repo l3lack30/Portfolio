@@ -1,5 +1,5 @@
 <script setup>
-import { RouterLink, RouterView } from 'vue-router'
+import { RouterView } from 'vue-router'
 import HomeView from './views/HomeView.vue'
 import Education from './views/Education.vue'
 import Activity from './views/Activity.vue'
