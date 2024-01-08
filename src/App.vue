@@ -45,6 +45,7 @@ import Contact from './views/Contact.vue'
                 <li><a class="dropdown-item" href="https://vue-from.netlify.app/">Form</a></li>
                 <li><a class="dropdown-item" href="https://vueapihttp.netlify.app/">Api</a></li>
                 <li><a class="dropdown-item" href="https://vuefirebasew.netlify.app/">Firebase</a></li>
+                <li><a class="dropdown-item" href="https://drive.google.com/drive/folders/1wh4tich0G7pD5oLOvsBnxCb7q5RUNi5F?usp=sharing">Bitmop-AI</a></li>
               </ul>
             </li>
           </ul>
