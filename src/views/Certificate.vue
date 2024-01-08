@@ -18,6 +18,11 @@
                         </div>
                     </div>
                     <div class="carousel-item">
+                        <img src="/src/assets/img/เกียรติบัตร-อบรม-AI-ปี-66_นศ-ช่วยงาน-กิจกรรมที่-1-รูปภาพ-10.jpg" class="d-block w-100" alt="...">
+                        <div class="carousel-caption d-none d-md-block">
+                        </div>
+                    </div>
+                    <div class="carousel-item">
                         <img src="/src/assets/img/AR.jpg" class="d-block w-100" alt="...">
                         <div class="carousel-caption d-none d-md-block">
                         </div>
